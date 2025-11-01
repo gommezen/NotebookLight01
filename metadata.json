@@ -1,0 +1,7 @@
+{
+  "name": "NotebookLight",
+  "description": "A local version of Google's NotebookLM to interact with your text sources. Ask questions, generate reports, create flashcards, and have live conversations with a powerful AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
